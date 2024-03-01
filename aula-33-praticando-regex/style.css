@@ -1,0 +1,56 @@
+#title{
+    position: relative;
+    margin-left: 835px;
+    width: 150px;    
+}
+
+#formulario{
+    display: flex;
+    padding: 5px;
+    margin-top: 10px;
+    width: 205px;
+    height: 190px;
+    margin-left: 800px;
+    background-color: #999;
+}
+
+#formulario legend{
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#formulario label{
+    text-align: center;
+    position: relative;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+#cpf{
+    position: relative;
+    width: 170px;
+    height: 20px;
+    border-radius: 4px;
+    border: none;
+    align-items: center;
+    margin-left: 5px;
+    margin-bottom:20px;
+}
+
+#email{
+    position: relative;
+    width: 170px;
+    height: 20px;
+    border-radius: 4px;
+    border: none;
+    align-items: center;
+    margin-left: 5px;
+}
+
+#validador{
+    position: relative;
+    top:15px;
+    margin-left: 60px;
+    font-size: 25px;
+}
